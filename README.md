@@ -55,6 +55,8 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Quick Creator](https://quickcreator.io) - SEO-optimized blog platform powered by AI.
 - [RapidTextAI](https://app.rapidtextai.com/) - Write advanced articles using multiple AI models like GPT-4, Gemini, DeepSeek and Grok.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - AI platform for generating product descriptions and marketing content at scale.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) with 9 SEO skills — connects Google Search Console, PageSpeed Insights, and Google Ads for automated SEO audits, keyword research, meta tag optimization, and content publishing to WordPress/Strapi/Contentful/Ghost.
+
 
 ## Copywriting
 
