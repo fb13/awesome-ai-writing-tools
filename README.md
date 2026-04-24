@@ -49,6 +49,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Explainpaper](https://www.explainpaper.com/) - Upload a paper, highlight confusing text, get an explanation.
 - [SciSpace](https://scispace.com/) - AI chat for scientific PDFs.
 - [Sourcely](https://www.sourcely.net/) - Academic citation finding tool with AI.
+- [MindMap AI](https://mindmapai.app/research-to-mindmap) - AI-powered tool for planning blog structures, organizing ideas, and turning research into visual outlines for long-form content.
 
 ## SEO and Content Marketing
 
