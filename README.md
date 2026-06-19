@@ -55,6 +55,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Quick Creator](https://quickcreator.io) - SEO-optimized blog platform powered by AI.
 - [RapidTextAI](https://app.rapidtextai.com/) - Write advanced articles using multiple AI models like GPT-4, Gemini, DeepSeek and Grok.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - AI platform for generating product descriptions and marketing content at scale.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, keyword research, schema markup, and paid ads, connecting to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Copywriting
 
