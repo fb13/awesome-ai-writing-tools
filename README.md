@@ -55,6 +55,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Quick Creator](https://quickcreator.io) - SEO-optimized blog platform powered by AI.
 - [RapidTextAI](https://app.rapidtextai.com/) - Write advanced articles using multiple AI models like GPT-4, Gemini, DeepSeek and Grok.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - AI platform for generating product descriptions and marketing content at scale.
+- [Screpy AI Article Generator](https://screpy.com/feature/ai-article-generator/) - Creates editable SEO content drafts, outlines, and briefs from topics and keyword ideas.
 
 ## Copywriting
 
