@@ -87,3 +87,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## License
 
 [MIT](LICENSE)
+- [Humanize-Text](https://github.com/lynote-ai/humanize-text) - Open-source Python toolkit for multi-stage rewriting of AI-assisted drafts.
