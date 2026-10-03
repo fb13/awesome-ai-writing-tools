@@ -20,7 +20,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Editor's Choice
 
-- [Draftly](https://joindraftly.com/) - AI editor that critiques your draft, flags unclear sentences, and gives revision guidance without rewriting your voice.
+- [Prosematter](https://prosematter.com/) - AI editor that critiques your draft, flags unclear sentences, and gives revision guidance without rewriting your voice.
 
 ## General Writing Assistants
 
