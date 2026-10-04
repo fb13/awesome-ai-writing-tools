@@ -73,6 +73,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [PulsePost](https://pulsepost.io/) - AI writer that auto-publishes to your own website.
+- [AI eBook Pro](https://aiebookpro.com/) - Turns a one-sentence idea into a complete eBook with chapters, a cover, and PDF, EPUB, and DOCX files.
 
 ## Niche and Specialized
 
