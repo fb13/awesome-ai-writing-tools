@@ -33,6 +33,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for using local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
 - [Nexus AI](https://mynexusai.com/) - A generative AI platform for writing, coding, voiceovers, research, image creation and beyond.
+- [WarmQuant](https://warmquant.com/) - AI-assisted English drafting from notes with writing angles, creator and reader personas, and editable saved drafts.
 
 ## Editing and Proofreading
 
