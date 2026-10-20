@@ -78,6 +78,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any climate topic in minutes.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - Writes a beautiful rhyming poem for you on any subject, given a text prompt.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker and AI resume builder with a live candidate leaderboard.
 
 ## Related Awesome Lists
 
