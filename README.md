@@ -33,6 +33,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for using local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
 - [Nexus AI](https://mynexusai.com/) - A generative AI platform for writing, coding, voiceovers, research, image creation and beyond.
+- [CapyBro](https://capybro.app) - Open-source desktop assistant that rewrites, fixes, and translates selected text in any Windows app via a global hotkey; works with cloud or local (Ollama) models.
 
 ## Editing and Proofreading
 
