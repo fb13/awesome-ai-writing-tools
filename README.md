@@ -49,6 +49,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Explainpaper](https://www.explainpaper.com/) - Upload a paper, highlight confusing text, get an explanation.
 - [SciSpace](https://scispace.com/) - AI chat for scientific PDFs.
 - [Sourcely](https://www.sourcely.net/) - Academic citation finding tool with AI.
+- [HumanPen](https://humanpen.net/) - Document-level AI humanizer for academic writing and reports with citation-aware rewriting.
 
 ## SEO and Content Marketing
 
